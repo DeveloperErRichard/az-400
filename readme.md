@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/az400erda/9e90385e-f43e-4801-8af1-708e640be491/8faf4d89-0121-4421-a622-2073935406f5/_apis/work/boardbadge/f5e8acda-4ca1-4577-8361-a00065379145)](https://dev.azure.com/az400erda/9e90385e-f43e-4801-8af1-708e640be491/_boards/board/t/8faf4d89-0121-4421-a622-2073935406f5/Microsoft.RequirementCategory)
 # AZ-400: Designing and Implementing Microsoft DevOps Solutions
 
 Companion Material for Class Delivery by [Alexander Pajer](https://www.integrations.at/kontakt.aspx) containing:
